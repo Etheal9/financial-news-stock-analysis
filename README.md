@@ -33,7 +33,7 @@ financial-news-stock-analysis/
 │   └── strategy\_module.py         # Investment logic and pattern scoring
 ├── raw\_analyst\_ratings.csv        # News headlines dataset
 ├── requirements.txt               # Project dependencies
-└── README.md                      # You're here!
+└── README.md                      
 
 
 
